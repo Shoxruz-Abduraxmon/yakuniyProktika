@@ -1,0 +1,22 @@
+{
+  "name": "yakuniy-proktika",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abduraxmonov",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-controller": "^0.3.2",
+    "express-handlebars": "^6.0.6",
+    "handlebars": "^4.7.7",
+    "hbs": "^4.2.0",
+    "mysql": "^2.18.1"
+  }
+}
